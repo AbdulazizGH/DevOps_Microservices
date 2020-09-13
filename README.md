@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+# Example:
+[![CircleCI](https://circleci.com/gh/AbdulazizGH/DevOps_Microservices.svg?style=svg)](https://circleci.com/gh/AbdulazizGH/DevOps_Microservices)
 
 ## Project Overview
 
